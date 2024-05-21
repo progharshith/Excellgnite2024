@@ -3,9 +3,9 @@ import cv2
 import numpy as np
 import pyautogui
 
-# Create a cyberpunk-style camera window
+# Create a camera window
 camera_window = np.zeros((800, 800, 3), dtype=np.uint8)
-camera_window[:] = (29, 9, 26)  # Set the background color to cyberpunk purple
+camera_window[:] = (29, 9, 26)  # Set the background color to purple
 
 # Initialize Hand Detector
 detector = HandDetector(detectionCon=0.8)
