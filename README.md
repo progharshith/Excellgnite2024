@@ -37,3 +37,6 @@ This project demonstrates a hand gesture-controlled slide navigation system usin
 *Note: This code runs in python and requires you to have the prerequisites mentioned, aswell as have the powerpoint file open as this code simply uses "left" and "right" of pyautogui*
 
 Feel free to fork! Happy coding!
+
+For any questions or suggestions, Contact us!
+[harshithguptaa2@gmail.com],[harshul.the.kaushal@gmail.com]
